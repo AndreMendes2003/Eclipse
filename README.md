@@ -1,2 +1,2 @@
 # Eclipse
-Integração da IDE Eclipse com GitHub
+Teste de Integração da IDE Eclipse com GitHub
